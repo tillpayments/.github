@@ -1,0 +1,10 @@
+{
+    "name": "Till Payments Tagged Build Workflow",
+    "description": "Till Payments tagged build workflow.",
+    "iconName": "till-payments",
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
